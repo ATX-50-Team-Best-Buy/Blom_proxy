@@ -1,2 +1,2 @@
 # Blom_proxy
-Searchbar, header and footer proxy
+This is a proxy server for the searchbar, header and footer component
