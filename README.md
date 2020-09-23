@@ -5,10 +5,14 @@ Blom_proxy was implemented with an AWS EC2 Ubuntu instance. Best Buy Clone is a 
 
 This Application was built by a team of three Full Stack Software Engineers from the Hack Reactor, Austin, 50th Cohort (HRATX50).
 
-## Demo
-![BestBuy](https://user-images.githubusercontent.com/65248215/93929154-0df19a00-fce1-11ea-98b1-85027f850c5d.gif)
-![screenshot-localhost-3003-1600795019648](https://user-images.githubusercontent.com/65248215/93916274-e4c80e00-fcce-11ea-9638-619386baafbe.png)
+## Search Demo
+![SearchBestBuy](https://user-images.githubusercontent.com/65248215/94040318-67fc6900-fd8e-11ea-97d7-24f1140dfada.gif)
 
+## Product View Demo
+![Product View Demo](https://user-images.githubusercontent.com/65248215/94040732-e8bb6500-fd8e-11ea-9e5a-745a02aed610.gif)
+
+## Page Overview
+![screenshot-localhost-3003-1600796432702](https://user-images.githubusercontent.com/65248215/93917685-ebf01b80-fcd0-11ea-88e5-077834c63edc.png)
 
 
 ## Dev Team
@@ -67,4 +71,3 @@ Our team managed workflow and responsibilities by utilizing Agile methodology. T
    [Danielle Blom]: <https://github.com/dlblom>
    [Mike Champagne]: <https://github.com/GeauxDrum>
    [Ryan Walker]: <https://github.com/jryanwalker93>
-
